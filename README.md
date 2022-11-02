@@ -1,2 +1,2 @@
 # Calculator-Using-Javascript
-HTML, CSS , JS use of VS code editor
+We Create a calculator using HTML, Css, and Javascript for this calculator Project.
